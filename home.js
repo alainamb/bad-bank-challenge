@@ -11,7 +11,7 @@ function Home() {
             body={(
                 <>
                     <p className="card-text">
-                        This "Bad Bank" challenge was completed as part of the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN program hosted by Emeritus. It simulates basic banking operations including account creation, user authentication, deposits, withdrawals, and account management.
+                        This “Bad Bank” challenge was completed as part of the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN program hosted by Emeritus. It simulates basic banking operations including account creation, user authentication, deposits, withdrawals, and account management.
                     </p>
                     <p className="card-text">
                         <strong>For testing purposes, use these credentials:</strong><br/>
