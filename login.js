@@ -51,6 +51,7 @@ function Login() {
             // Success! result is the user object
             setName(result.name);
             setIsAdmin(result.admin === 1); // Comparison that returns true OR false
+            setShowResetPassword(false); 
             ctx.setCurrentUser(result); 
             setShow(false);
     }
